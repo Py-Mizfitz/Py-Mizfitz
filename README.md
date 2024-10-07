@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Py-Mizfitz
+- 👀 Python Developer
+- 🤖 Twitch Kasada Solver 
+- 📫 @bltondc - Discord 
